@@ -1,0 +1,318 @@
+{
+  "i18n-ally.defaultNamespace": "common",
+  "i18n-ally.displayLanguage": "en",
+  "i18n-ally.enabledFrameworks": ["flutter", "i18next", "react", "vue"],
+  "i18n-ally.keystyle": "nested",
+  "i18n-ally.localesPaths": ["./src/i18n/resources/", "./src/i18n/resources/", "./src/locales/"],
+  "i18n-ally.namespace": true,
+  "i18n-ally.pathMatcher": "{locale}/{namespace}.json",
+  "importSorter.generalConfiguration.sortOnBeforeSave": true,
+  "importSorter.importStringConfiguration.maximumNumberOfImportExpressionsPerLine.count": 160,
+  "importSorter.importStringConfiguration.tabSize": 2,
+  "importSorter.sortConfiguration.customOrderingRules.rules": [
+    {
+      "disableSort": true,
+      "orderLevel": 10,
+      "regex": "^$",
+      "type": "importMember"
+    },
+    {
+      "orderLevel": 40,
+      "regex": "^[@]/"
+    },
+    {
+      "orderLevel": 30,
+      "regex": "^[@]"
+    },
+    {
+      "orderLevel": 50,
+      "regex": "^[.]"
+    }
+  ],
+  "importSorter.sortConfiguration.removeUnusedDefaultImports": true,
+  "importSorter.sortConfiguration.removeUnusedImports": true,
+  "[cpp]": {
+    "editor.defaultFormatter": "ms-vscode.cpptools"
+  },
+  "[dotenv]": {
+    "editor.defaultFormatter": "foxundermoon.shell-format"
+  },
+  "[env]": {
+    "editor.defaultFormatter": "IronGeek.vscode-env"
+  },
+  "[gradle]": {
+    "editor.codeActionsOnSave": {
+      "source.fixAll.spotlessGradle": true
+    },
+    "files.trimTrailingWhitespace": false
+  },
+  "[ignore]": {
+    "editor.defaultFormatter": "foxundermoon.shell-format"
+  },
+  "[java]": {
+    "editor.defaultFormatter": "mwpb.java-prettier-formatter",
+    "editor.codeActionsOnSave": {
+      "source.fixAll.spotlessGradle": true
+    },
+    "files.trimTrailingWhitespace": false
+  },
+  "[php]": {
+    "editor.defaultFormatter": "bmewburn.vscode-intelephense-client"
+  },
+  "[properties]": {
+    "editor.defaultFormatter": "foxundermoon.shell-format"
+  },
+  "[sass]": {
+    "editor.defaultFormatter": "syler.sass-indented"
+  },
+  "[shellscript]": {
+    "editor.defaultFormatter": "foxundermoon.shell-format"
+  },
+  "[sql]": {
+    "editor.defaultFormatter": "lea21st.vscode-sql-formatter"
+  },
+  "[xml]": {
+    "editor.defaultFormatter": "redhat.vscode-xml"
+  },
+  "auto-comment-blocks.singleLineBlockOnEnter": true,
+  "C_Cpp.inlayHints.autoDeclarationTypes.enabled": true,
+  "C_Cpp.inlayHints.autoDeclarationTypes.showOnLeft": true,
+  "C_Cpp.inlayHints.parameterNames.enabled": true,
+  "C_Cpp.inlayHints.referenceOperator.enabled": true,
+  "C_Cpp.inlayHints.referenceOperator.showSpace": true,
+  "csharp.inlayHints.parameters.enabled": true,
+  "csharp.inlayHints.parameters.forIndexerParameters": true,
+  "csharp.inlayHints.parameters.forLiteralParameters": true,
+  "csharp.inlayHints.parameters.forObjectCreationParameters": true,
+  "csharp.inlayHints.parameters.forOtherParameters": true,
+  "csharp.inlayHints.parameters.suppressForParametersThatDifferOnlyBySuffix": true,
+  "csharp.inlayHints.parameters.suppressForParametersThatMatchArgumentName": true,
+  "csharp.inlayHints.parameters.suppressForParametersThatMatchMethodIntent": true,
+  "csharp.inlayHints.types.enabled": true,
+  "csharp.inlayHints.types.forImplicitObjectCreation": true,
+  "csharp.inlayHints.types.forImplicitVariableTypes": true,
+  "csharp.inlayHints.types.forLambdaParameterTypes": true,
+  "cSpell.ignorePaths": [".git/objects", ".vscode", ".vscode-insiders", "node_modules", "package-lock.json", "settings.json", "vscode-extension", "yarn.lock"],
+  "cSpell.language": "en-US,en-GB,vi,en",
+  "cSpell.showAutocompleteSuggestions": true,
+  "cSpell.userWords": ["Daomtthuan"],
+  "editor.accessibilitySupport": "off",
+  "editor.codeLens": true,
+  "editor.codeLensFontSize": 16,
+  "editor.cursorBlinking": "expand",
+  "editor.cursorSmoothCaretAnimation": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.fontFamily": "Cascadia Code, Source Code Pro, Consolas, Courier New, monospace",
+  "editor.fontLigatures": "'calt', 'ss01', 'ss02', 'ss03', 'ss04', 'ss05', 'ss06', 'zero', 'onum'",
+  "editor.fontSize": 18,
+  "editor.fontWeight": "350",
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true,
+  "editor.formatOnType": true,
+  "editor.guides.bracketPairs": true,
+  "editor.inlayHints.enabled": "offUnlessPressed",
+  "editor.inlayHints.fontSize": 15,
+  "editor.inlineSuggest.enabled": true,
+  "editor.letterSpacing": 1.2,
+  "editor.lineHeight": 32,
+  "editor.linkedEditing": true,
+  "editor.matchBrackets": "never",
+  "editor.minimap.enabled": false,
+  "editor.minimap.renderCharacters": false,
+  "editor.minimap.size": "fill",
+  "editor.rulers": [160],
+  "editor.selectionHighlight": false,
+  "editor.smoothScrolling": true,
+  "editor.suggest.preview": true,
+  "editor.suggest.shareSuggestSelections": true,
+  "editor.suggestFontSize": 16,
+  "editor.suggestSelection": "first",
+  "editor.tabSize": 2,
+  "editor.wordWrap": "wordWrapColumn",
+  "editor.wordWrapColumn": 160,
+  "explorer.compactFolders": false,
+  "explorer.confirmDelete": false,
+  "explorer.confirmDragAndDrop": false,
+  "extensions.ignoreRecommendations": false,
+  "files.associations": {
+    "*.snippet": "xml",
+    "CHANGELOG": "markdown",
+    "LICENSE": "plaintext"
+  },
+  "files.autoSave": "onFocusChange",
+  "files.eol": "\n",
+  "files.insertFinalNewline": true,
+  "files.trimFinalNewlines": true,
+  "git.confirmSync": false,
+  "git.decorations.enabled": false,
+  "html.format.wrapLineLength": 160,
+  "i18n-ally.annotationMaxLength": 160,
+  "intelephense.files.exclude": ["*/.DS_Store/*", "*/.git/*", "*/.hg/*", "*/.history/*", "*/.svn/*", "*/bower_components/*", "*/CVS/*", "*/node_modules/*"],
+  "intelephense.format.braces": "k&r",
+  "javascript.format.insertSpaceAfterOpeningAndBeforeClosingJsxExpressionBraces": true,
+  "javascript.format.semicolons": "insert",
+  "javascript.inlayHints.enumMemberValues.enabled": true,
+  "javascript.inlayHints.functionLikeReturnTypes.enabled": true,
+  "javascript.inlayHints.parameterNames.enabled": "all",
+  "javascript.inlayHints.parameterTypes.enabled": true,
+  "javascript.inlayHints.propertyDeclarationTypes.enabled": true,
+  "javascript.inlayHints.variableTypes.enabled": true,
+  "javascript.preferences.quoteStyle": "single",
+  "javascript.suggestionActions.enabled": false,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "js/ts.implicitProjectConfig.checkJs": true,
+  "js/ts.implicitProjectConfig.experimentalDecorators": true,
+  "js/ts.implicitProjectConfig.strictNullChecks": true,
+  "js/ts.implicitProjectConfig.target": "ESNext",
+  "json.schemas": [
+    {
+      "name": "web-app-manifest",
+      "fileMatch": ["manifest.json"],
+      "url": "https://json.schemastore.org/web-manifest-combined.json"
+    }
+  ],
+  "liveServer.settings.donotShowInfoMsg": true,
+  "liveServer.settings.donotVerifyTags": true,
+  "markdown.links.openLocation": "beside",
+  "prettier.arrowParens": "always",
+  "prettier.bracketSameLine": true,
+  "prettier.bracketSpacing": true,
+  "prettier.jsxSingleQuote": false,
+  "prettier.printWidth": 160,
+  "prettier.singleQuote": true,
+  "prettier.tabWidth": 2,
+  "prettier.trailingComma": "all",
+  "python.analysis.completeFunctionParens": true,
+  "python.analysis.inlayHints.functionReturnTypes": true,
+  "python.analysis.inlayHints.variableTypes": true,
+  "python.languageServer": "Pylance",
+  "python.linting.enabled": true,
+  "pythonIndent.useTabOnHangingIndent": true,
+  "redhat.telemetry.enabled": true,
+  "security.workspace.trust.enabled": false,
+  "security.workspace.trust.untrustedFiles": "open",
+  "sort-json.settings.orderOverrideKeys": [
+    "author",
+    "ava",
+    "browser",
+    "browserslist",
+    "bundledDependencies",
+    "config",
+    "cpu",
+    "dependencies",
+    "description",
+    "devDependencies",
+    "engines",
+    "engineStrict",
+    "eslintConfig",
+    "eslintIgnore",
+    "files",
+    "jest",
+    "jsnext:main",
+    "license",
+    "main",
+    "mocha",
+    "module",
+    "name",
+    "nyc",
+    "optionalDependencies",
+    "os",
+    "peerDependencies",
+    "preferGlobal",
+    "prettier",
+    "private",
+    "private",
+    "publishConfig",
+    "resolutions",
+    "scripts",
+    "style",
+    "stylelint",
+    "types",
+    "typings",
+    "version",
+    "workspaces",
+    "xo"
+  ],
+  "material-icon-theme.files.associations": {
+    // javascript
+    "hook.js": "../../../icons/react-hook",
+    "hooks.js": "../../../icons/react-hook",
+    "constants.js": "../../../icons/constant",
+    "config.js": "settings",
+    "configs.js": "settings",
+    // typescript
+    "hook.ts": "../../../icons/react-hook",
+    "hooks.ts": "../../../icons/react-hook",
+    "types.ts": "typescript-def",
+    "constants.ts": "../../../icons/constant",
+    "config.ts": "settings",
+    "configs.ts": "settings",
+    // react
+    "react-native.config.js": "../../../icons/rnconfig",
+    "react-native.config.ts": "../../../icons/rnconfig",
+    // redux
+    "state.js": "../../../icons/redux-state",
+    "states.js": "../../../icons/redux-state",
+    "slice.js": "../../../icons/redux-slice",
+    "slices.js": "../../../icons/redux-slice",
+    "state.ts": "../../../icons/redux-state",
+    "states.ts": "../../../icons/redux-state",
+    "slice.ts": "../../../icons/redux-slice",
+    "slices.ts": "../../../icons/redux-slice",
+    // ruby
+    ".ruby-version": "ruby",
+    // metro
+    "metro.config.ts": "../../../icons/metro",
+    "metro.config.js": "../../../icons/metro",
+    "metro.config.json": "../../../icons/metro",
+    // i18n
+    "i18n.js": "i18n",
+    "i18n.ts": "i18n"
+  },
+  "material-icon-theme.folders.associations": {
+    ".bundle": "dist",
+    ".react": "react-components",
+    "features": "components",
+    "navigation": "routes",
+    "object": "class",
+    "slices": "../../../../../icons/folder-redux-slice"
+  },
+  "terminal.integrated.cursorStyle": "underline",
+  "terminal.integrated.defaultProfile.windows": "Cmder",
+  "terminal.integrated.enableMultiLinePasteWarning": false,
+  "terminal.integrated.profiles.windows": {
+    "Cmder": {
+      "args": ["/K", "D:\\Programs\\Dev\\Cmder\\vendor\\bin\\vscode_init.cmd"],
+      "path": "cmd"
+    }
+  },
+  "terminal.integrated.smoothScrolling": true,
+  "typescript.enablePromptUseWorkspaceTsdk": true,
+  "typescript.format.semicolons": "insert",
+  "typescript.implementationsCodeLens.enabled": true,
+  "typescript.inlayHints.enumMemberValues.enabled": true,
+  "typescript.inlayHints.functionLikeReturnTypes.enabled": true,
+  "typescript.inlayHints.parameterNames.enabled": "all",
+  "typescript.inlayHints.parameterTypes.enabled": true,
+  "typescript.inlayHints.propertyDeclarationTypes.enabled": true,
+  "typescript.inlayHints.variableTypes.enabled": true,
+  "typescript.preferences.quoteStyle": "single",
+  "typescript.suggest.completeFunctionCalls": true,
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "vscodeGoogleTranslate.preferredLanguage": "Vietnamese",
+  "workbench.colorCustomizations": {
+    "regionmarker.background": "#00000000",
+    "regionmarker.foreground": "#b7c6d5"
+  },
+  "workbench.colorTheme": "Bearded Theme Arc Reversed",
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.list.smoothScrolling": true,
+  "workbench.productIconTheme": "icons-carbon",
+  "workbench.startupEditor": "none",
+  "xml.format.splitAttributes": true,
+  "xml.symbols.maxItemsComputed": 10000,
+  "yaml.schemas": {
+    "file:///c%3A/Users/Daomtthuan/.vscode/extensions/atlassian.atlascode-2.10.12/resources/schemas/pipelines-schema.json": "bitbucket-pipelines.yml"
+  },
+  "github.copilot.advanced": {}
+}
